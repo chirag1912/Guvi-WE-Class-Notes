@@ -1,0 +1,36 @@
+API:
+Representational State Transfer;
+
+JSON is similar to XMLor YAMO;
+
+Is used for many APIs, and COnfig Files;
+
+LightWeight;Easy to read;
+INtegrated with JS; nicely;
+
+JSON SuperSt of JS;
+
+JSON Types:
+Objects: is of Key value Pair;
+str, Num, Booleans, Null, Arrays;
+
+Mostly we creates Objects:
+WIth {
+"key": Value,
+
+} 
+
+
+Hey, So
+Visual Studio for JSON and HTML shows which syntax are not correct;
+
+Hey, so to get the JSON,
+We have to write the JavaScript COde everytime;
+
+Then, you can write:
+JSON.parse if we have string in JSON file;
+
+
+Every website would have created API Data on their Websites,
+WHich can be accessed by the user accordingly;
+
